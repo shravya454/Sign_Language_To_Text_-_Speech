@@ -174,6 +174,9 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 
 ---
 
-## 📄 License
+## Team Members
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+- Shravya K V      — 4VP23CS095
+- Samanvi I        — 4VP23CS083
+- Sanjana Hegde    — 4VP23CS085
+- Shravya N Shetty — 4VP23CS096
