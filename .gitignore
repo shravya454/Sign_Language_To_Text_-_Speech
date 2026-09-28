@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+env/
+sign_env/
+
+inspect_out.txt
+inspect_out2.txt
+inspect_out3.txt
+
+.vscode/
+.idea/
+
+.DS_Store
+
+# Models
+models/
+
+# Dataset
+data/
+
+scratch/
